@@ -43,7 +43,7 @@
           ></v-text-field>
           <v-spacer />
           <v-btn color="primary" rounded @click="add_new_item">
-            Continue
+            Add Item
           </v-btn>
         </v-card-actions>
       </v-card>
